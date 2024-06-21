@@ -160,5 +160,9 @@ footer{
         margin: 0 auto;
         margin-top: 40px;
     }
+
+    footer img{
+        height: 160px;
+    }
   }
   
