@@ -10,7 +10,7 @@ body{
 footer{
     display: flex;
     justify-content: right;
-    margin-right: 130px;
+    margin-right: 240px;
     margin-top: 30px;
 }
 ::-webkit-scrollbar{
