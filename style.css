@@ -125,7 +125,7 @@ footer{
     font-family: monospace;
   }
   
-  @media (max-width: 430px) {
+  @media (max-width: 500px) {
     #code-display {
         height: 50vh;
         font-size: 8px;
