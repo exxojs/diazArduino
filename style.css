@@ -156,9 +156,10 @@ footer{
     }
 
     footer{
-        justify-content: center;
-        margin: 0 auto;
-        margin-top: 40px;
+        display: flex;
+    justify-content: right;
+    margin-right: 60px;
+    margin-top: 30px;
     }
 
     footer img{
